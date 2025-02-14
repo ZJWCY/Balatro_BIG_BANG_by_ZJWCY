@@ -1,0 +1,15 @@
+{
+	"id": "big_bang",
+	"name": "BIG BANG",
+	"author": ["ZJWCY"],
+	"description": "Once there was an explosion. A bang which caused a naneinf in a round.",
+	"prefix": "ZJWCY_bgb",
+	"main_file": "big_bang.lua",
+                "badge_colour": "DEC651",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.6)",
+		"Balatro (==1.0.1n-FULL)"
+	]
+}
