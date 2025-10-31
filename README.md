@@ -5,7 +5,7 @@ __[WARNING]__ This mod is developed with [Steamodded 1.0.0~ALPHA-1313a](https://
 ### ・Big Bang
 &nbsp;&nbsp;&nbsp; __Rarity:__ Uncommon
 
-&nbsp;&nbsp;&nbsp; __Effect:__ During a single play, each Ace, when scoring, causes every subsequent scoring card of the same suit to trigger an additional N times. For every N antes, the value of N doubles. (N is initially set to 1)
+&nbsp;&nbsp;&nbsp; __Effect:__ During a single play, each Ace, when scoring, causes every subsequent scoring Ace of the same suit to trigger an additional N times. For every N antes, the value of N doubles. (N is initially set to 1)
 ### ・Collapse
 &nbsp;&nbsp;&nbsp; __Rarity:__ Uncommon
 
